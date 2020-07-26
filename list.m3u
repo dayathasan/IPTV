@@ -40,7 +40,7 @@ http://live02.mncnow.id/sctv/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL",SCTV HD
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV SD
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv:80/s/s07/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=QDRPJIL23VPBQH5IHQ49CZBJZESTACZ7&chname=antv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1573027791~acl=/hls-p/ingest_782_*/*~hmac=2a70ab4dc758f52c01159348f50d69d3becca9e980bb8e0a46e4c0964fa7800b/hls-p/ingest_782_480p/index.m3u8
 #http://210.210.155.35/qwr9ew/s/s102/01.m3u8
