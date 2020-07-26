@@ -1,39 +1,42 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,TRANS TV 1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
-#EXTINF:-1,iptvtools_32
+#EXTINF:-1,TRANS TV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
-#EXTINF:-1,iptvtools_41
+#EXTINF:-1,METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_42
+#EXTINF:-1,METRO TV 2
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1,iptvtools_49
+#EXTINF:-1,CNN INDONESIA 1
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1,iptvtools_50
+#EXTINF:-1,CNN INDONESIA 2
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1,iptvtools_51
+#EXTINF:-1,TRANSVISION
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1,iptvtools_53
+#EXTINF:0 tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="LOKAL",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1,iptvtools_61
+
+#EXTINF:0 tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="Astro Malaysia",Suria
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+
 #EXTINF:-1,iptvtools_86
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 #EXTINF:-1,iptvtools_87
 https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg
-#EXTINF:-1,iptvtools_123
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v
-#EXTINF:-1,iptvtools_143
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v" group-title="Film",AXN
+http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141/index.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1,iptvtools_169
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1480.jpg" group-title="KIDS",SATKIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1,iptvtools_170
-https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg
-#EXTINF:-1,iptvtools_182
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="KIDS",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+#EXTINF:-1group-title="Singapore",CH5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1,iptvtools_183
+#EXTINF:-1group-title="Singapore",CH8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1,iptvtools_184
+#EXTINF:-1group-title="Singapore",CH U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 #EXTINF:-1,iptvtools_185
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
@@ -41,37 +44,37 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1,iptvtools_187
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1,iptvtools_188
+#EXTINF:-1,Mediacorp CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1,iptvtools_189
+#EXTINF:-1,Premiere League
 http://183.182.100.184/live/pptvthai/playlist.m3u8
-#EXTINF:-1,iptvtools_192
+#EXTINF:-1,News 1
 http://news1.live14.com/stream/news1_hi.m3u8
-#EXTINF:-1,iptvtools_205
+#EXTINF:-1,DDTV
 http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1,iptvtools_215
+#EXTINF:-1,GMM 25
 http://183.182.100.184/live/mcothd/playlist.m3u8
-#EXTINF:-1,iptvtools_222
+#EXTINF:-1,HBO
 http://183.182.100.184/live/mono29/chunklist.m3u8
 #EXTINF:-1,iptvtools_227
 http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_228
+#EXTINF:-1,One 31
 http://183.182.100.184/live/onehd/chunklist.m3u8
-#EXTINF:-1,iptvtools_230
+#EXTINF:-1,Thailand
 http://203.146.129.233:1935/live/mp4:suwan/chunklist.m3u8
-#EXTINF:-1,iptvtools_232
+#EXTINF:-1,TV 32
 http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,iptvtools_233
+#EXTINF:-1,Thai Pes 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,iptvtools_237
+#EXTINF:-1,Tru4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
-#EXTINF:-1,iptvtools_239
+#EXTINF:-1,Thailand Islamic
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1,iptvtools_317
+#EXTINF:-1,CCTV 5+
 http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1,iptvtools_319
+#EXTINF:-1,CBC Sport
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
-#EXTINF:-1,iptvtools_330
+#EXTINF:-1,Arab Sport
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1,iptvtools_331
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
@@ -81,20 +84,31 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_700k.m3u8
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/f.m3u8
 #EXTINF:-1,iptvtools_346
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1,iptvtools_347
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/i350d9W.png" group-title="FEED SPORT",Tennis WTA 
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,iptvtools_367
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1,iptvtools_368
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1,iptvtools_369
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 4
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1,iptvtools_370
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1,iptvtools_371
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/OlympicChannel.us.png" group-title="FEED SPORT", Olympic Channel 6
 https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
 #EXTINF:-1  tvg-logo="http://m.drtuber.com/i.ibb.co/sVVHCDC/20200617-183712.png" group-title="LOKAL", ANTV
 http://rr2.dens.tv:80/s/s07/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=QDRPJIL23VPBQH5IHQ49CZBJZESTACZ7&chname=antv
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="SPORTS",True Vision: FOX Sports 1 
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="INDO LOKAL",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
